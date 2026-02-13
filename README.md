@@ -8,4 +8,4 @@ Feel free to explore the folders and run the example scripts. This repository is
 
 ## 📩 Contact Me
 
-Feel free to connect with me on LinkedIn or GitHub.
+Feel free to connect with me on <a href="https://www.linkedin.com/in/farohan/"><strong>LinkedIn</strong></a>
