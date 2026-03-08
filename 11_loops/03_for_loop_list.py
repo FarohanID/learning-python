@@ -1,3 +1,5 @@
+# for loop with a list
+
 friends = ["Rolf", "Jen", "Bob", "Anne"]
 
 for friend in friends:
