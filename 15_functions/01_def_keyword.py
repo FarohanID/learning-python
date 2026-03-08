@@ -1,6 +1,6 @@
 # This is a simple function definition using the 'def' keyword in Python.
 
-def hello():
+def hello(): # def is used to define a function, and 'hello' is the name of the function.
     print("Hello, world!")
 
 hello() # Calling the function to execute its code.
